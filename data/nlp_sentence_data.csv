@@ -1,0 +1,201 @@
+Id ,Original Sentence,Transformed Sentence,Label
+1,The company will launch the new product next quarter,The new product will be launched by the company next quarter,Active to Passive
+2,A famous architect designed this stunning skyscraper,This stunning skyscraper was designed by a famous architect,Active to Passive
+3,The committee is reviewing the proposal right now.,The proposal is being reviewed by the committee right now,Active to Passive
+4,Scientists have discovered a new species of marine life,A new species of marine life has been discovered by scientists,Active to Passive
+5,The storm had damaged several houses in the village,Several houses in the village had been damaged by the storm,Active to Passive
+6,The chef prepares each dish with great care.,Each dish is prepared with great care by the chef,Active to Passive
+7,They are building a new bridge over the river,A new bridge is being built over the river,Active to Passive
+8,Someone left the front door unlocked,The front door was left unlocked.,Active to Passive
+9,The teacher will grade our exams tomorrow,Our exams will be graded by the teacher tomorrow,Active to Passive
+10,The loud music was distracting the students,The students were being distracted by the loud music,Active to Passive
+11,My friend sent me this postcard from Japan,This postcard was sent to me by my friend from Japan,Active to Passive
+12,The government has implemented new policies,New policies have been implemented by the government,Active to Passive
+13,People speak English all over the world,English is spoken all over the world,Active to Passive
+14,The gardener is watering the plants,The plants are being watered by the gardener,Active to Passive
+15,A sudden frost killed the delicate flowers,The delicate flowers were killed by a sudden frost,Active to Passive
+16,You must follow the instructions carefully,The instructions must be followed carefully,Active to Passive
+17,The team has won the championship three times,The championship has been won by the team three times,Active to Passive
+18,The author is writing a new novel,A new novel is being written by the author,Active to Passive
+19,The mechanic had repaired the car perfectly,The car had been repaired perfectly by the mechanic,Active to Passive
+20,The organization will host a charity event,A charity event will be hosted by the organization,Active to Passive
+21,The jury delivered the final verdict,The final verdict was delivered by the jury,Active to Passive
+22,He is composing a beautiful piece of music,A beautiful piece of music is being composed by him,Active to Passive
+23,The company had already shipped the order,The order had already been shipped by the company,Active to Passive
+24,The artists are painting a large mural,A large mural is being painted by the artists,Active to Passive
+25,The system processes thousands of transactions every second,Thousands of transactions are processed by the system every second,Active to Passive
+26,The librarian is cataloging the new books,The new books are being cataloged by the librarian,Active to Passive
+27,A small child wrote this lovely poem,This lovely poem was written by a small child,Active to Passive
+28,The volunteers will distribute the aid packages,The aid packages will be distributed by the volunteers,Active to Passive
+29,She had already booked the tickets,The tickets had already been booked by her,Active to Passive
+30,The museum is exhibiting ancient artifacts,Ancient artifacts are being exhibited by the museum,Active to Passive
+31,The sun warms the earth,The earth is warmed by the sun,Active to Passive
+32,He will have finished the project by next week,The project will have been finished by him by next week,Active to Passive
+33,The critics gave the movie a bad review,The movie was given a bad review by the critics,Active to Passive
+34,The construction workers were repairing the road,The road was being repaired by the construction workers,Active to Passive
+35,The problem was solved by the engineers,The engineers solved the problem,Passive to Active
+36,The ball was thrown by the pitcher,The pitcher threw the ball,Passive to Active
+37,The national anthem is being sung by the choir,The choir is singing the national anthem,Passive to Active
+38,The masterpiece had been painted by a renowned artist,A renowned artist had painted the masterpiece,Passive to Active
+39,The suspect was arrested by the police last night,The police arrested the suspect last night,Passive to Active
+40,A new treatment for the disease has been found by researchers,Researchers have found a new treatment for the disease,Passive to Active
+41,The city will be rebuilt by the citizens,The citizens will rebuild the city,Passive to Active
+42,The cake was being eaten by the children,The children were eating the cake,Passive to Active
+43,This book was written by an unknown author,An unknown author wrote this book,Passive to Active
+44,The new software is being tested by the QA team,The QA team is testing the new software,Passive to Active
+45,The package will have been delivered by noon,The courier will have delivered the package by noon,Passive to Active
+46,The contract must be signed by both parties,Both parties must sign the contract,Passive to Active
+47,The windows had been shattered by the explosion,The explosion had shattered the windows,Passive to Active
+48,The museum was visited by thousands of tourists,Thousands of tourists visited the museum,Passive to Active
+49,The project has been successfully completed by the team,The team has successfully completed the project,Passive to Active
+50,The light was invented by Thomas Edison,Thomas Edison invented the light,Passive to Active
+51,The crops were being harvested by the farmers,The farmers were harvesting the crops,Passive to Active
+52,My wallet has been stolen,Someone has stolen my wallet,Passive to Active
+53,The bridge is being constructed by the engineering firm,The engineering firm is constructing the bridge,Passive to Active
+54,The old temple was discovered by explorers,Explorers discovered the old temple,Passive to Active
+55,The prize will be awarded by the principal,The principal will award the prize,Passive to Active
+56,The patient was being monitored by the nurses,The nurses were monitoring the patient,Passive to Active
+57,The pyramids were built by the ancient Egyptians,The ancient Egyptians built the pyramids,Passive to Active
+58,The email has been sent by the secretary,The secretary has sent the email,Passive to Active
+59,The announcement will be made by the president.,The president will make the announcement,Passive to Active
+60,The mountain was being climbed by the adventurers,The adventurers were climbing the mountain,Passive to Active
+61,The decision had been made by the board of directors,The board of directors had made the decision,Passive to Active
+62,The truth was finally revealed by the witness,The witness finally revealed the truth,Passive to Active
+63,The symphony is being performed by the orchestra,The orchestra is performing the symphony,Passive to Active
+64,The broken car was fixed by the mechanic,The mechanic fixed the broken car,Passive to Active
+65,The entire city was destroyed by the fire,The fire destroyed the entire city,Passive to Active
+66,The message will be delivered by a drone,A drone will deliver the message,Passive to Active
+67,The plan has been approved by the committee,The committee has approved the plan,Passive to Active
+68,"He said, """"I am feeling unwell today.""""",He said that he was feeling unwell that day.,Direct to Indirect Speech
+69,"She asked, """"Where is the nearest post office?""""",She asked where the nearest post office was.,Direct to Indirect Speech
+70,"The teacher said to the students, """"You must submit your work by Friday.""""",The teacher told the students that they had to submit their work by Friday.,Direct to Indirect Speech
+71,"""""Don't make a noise,"""" the librarian said.",The librarian told us not to make a noise.,Direct to Indirect Speech
+72,"My friend said, """"I will call you tomorrow.""""",My friend said that he would call me the next day.,Direct to Indirect Speech
+73,"She said, """"I have already finished my lunch.""""",She said that she had already finished her lunch.,Direct to Indirect Speech
+74,"The boy said, """"I can solve this puzzle.""""",The boy said that he could solve that puzzle.,Direct to Indirect Speech
+75,"The officer commanded, """"Fire!""""",The officer commanded them to fire.,Direct to Indirect Speech
+76,"Emily said, """"My parents are arriving now.""""",Emily said that her parents were arriving then.,Direct to Indirect Speech
+77,"He asked, """"Can you help me with this bag?""""",He asked if I could help him with that bag.,Direct to Indirect Speech
+78,"The scientist said, """"The experiment was a success.""""",The scientist said that the experiment had been a success.,Direct to Indirect Speech
+79,"""""What a beautiful painting!"""" she exclaimed.",She exclaimed that it was a beautiful painting.,Direct to Indirect Speech
+80,"The doctor said to me, """"Take this medicine twice a day.""""",The doctor advised me to take that medicine twice a day.,Direct to Indirect Speech
+81,"He said, """"I may go to the concert.""""",He said that he might go to the concert.,Direct to Indirect Speech
+82,"The traveler asked, """"Is this the right way to the station?""""",The traveler inquired whether that was the right way to the station.,Direct to Indirect Speech
+83,"She said, """"I wish I were a bit taller.""""",She wished that she were a bit taller.,Direct to Indirect Speech
+84,"The child said, """"I want a new toy.""""",The child said that he wanted a new toy.,Direct to Indirect Speech
+85,"He said, """"Let's go for a walk.""""",He suggested going for a walk,Direct to Indirect Speech
+86,"She said, """"I saw this movie last week.""""",She said she had seen that movie the previous week.,Direct to Indirect Speech
+87,"The guard said, """"The museum closes at 5 PM.""""",The guard informed us that the museum closed at 5 PM.,Direct to Indirect Speech
+88,"My father said, """"Honesty is the best policy.""""",My father said that honesty is the best policy.,Direct to Indirect Speech
+89,"She said, """"Alas! I have lost my keys.""""",She exclaimed sadly that she had lost her keys.,Direct to Indirect Speech
+90,"The coach said, """"Well done, team!""""","The coach applauded the team, saying they had done well.",Direct to Indirect Speech
+91,"He said, """"I have been working here for three years.""""",He said that he had been working there for three years.,Direct to Indirect Speech
+92,"She asked her son, """"Why are you crying?""""",She asked her son why he was crying,Direct to Indirect Speech
+93,"The politician said, """"I will lower taxes.""""",The politician promised to lower taxes.,Direct to Indirect Speech
+94,"He said, """"I must leave immediately.""""",He said that he had to leave immediately.,Direct to Indirect Speech
+95,"The tourist said, """"I have never been to India before.""""",The tourist said that he had never been to India before.,Direct to Indirect Speech
+96,"She said, """"I am planning to buy a new car.""""",She said that she was planning to buy a new car.,Direct to Indirect Speech
+97,"""""Please give me a glass of water,"""" he said",He requested me to give him a glass of water.,Direct to Indirect Speech
+98,"The announcer said, """"The train is running late.""""",The announcer said that the train was running late.,Direct to Indirect Speech
+99,"She said, """"I might be late for the party.""""",She said she might be late for the party.,Direct to Indirect Speech
+100,"He said, """"I am going to the gym now.""""",He said he was going to the gym then.,Direct to Indirect Speech
+101,He told me that he would be there the next day,"He said to me, """"I will be there tomorrow.""""",Indirect to Direct Speech
+102,She asked me if I could help her,"She asked me, """"Can you help me?""""",Indirect to Direct Speech
+103,The teacher instructed the students to open their books.,"The teacher said to the students, """"Open your books.""""",Indirect to Direct Speech
+104,He exclaimed that it was a terrible accident.,"He said, """"What a terrible accident!""""",Indirect to Direct Speech
+105,She said that she had finished her assignment.,"She said, """"I have finished my assignment.""""",Indirect to Direct Speech
+106,He asked where the manager's office was,"He asked, """"Where is the manager's office?""""",Indirect to Direct Speech
+107,My mother advised me not to waste my time.,"My mother said to me, """"Don't waste my time.""""",Indirect to Direct Speech
+108,She said that she was watching a movie then.,"She said, """"I am watching a movie now.""""",Indirect to Direct Speech
+109,He said that he had bought that car the previous year.,"He said, """"I bought this car last year.""""",Indirect to Direct Speech
+110,The captain commanded the soldiers to march forward,"The captain said to the soldiers, """"March forward!""""",Indirect to Direct Speech
+111,She asked him what he was doing there,"She asked him, """"What are you doing here?""""",Indirect to Direct Speech
+112,He proposed that they should go out for dinner,"He said, """"Let's go out for dinner.""""",Indirect to Direct Speech
+113,The old man wished that I might live long.,"The old man said to me, """"May you live long.""""",Indirect to Direct Speech
+114,She told me that she might go to London,"She said to me, """"I may go to London.""""",Indirect to Direct Speech
+115,He asked me if I had seen his wallet.,"He asked me, """"Have you seen his wallet?""""",Indirect to Direct Speech
+116,She said she had to reach the office early.,"She said, """"I must reach the office early.""""",Indirect to Direct Speech
+117,The chairman said that the meeting was over,"The chairman said, """"The meeting is over.""""",Indirect to Direct Speech
+118,He suggested that we should play a game.,"He said, """"Let's play a game.""""",Indirect to Direct Speech
+119,She confessed with regret that she had been very foolish.,"She said, """"Alas! I have been very foolish.""""",Indirect to Direct Speech
+120,He asked the child if he knew the way to the park.,"He asked the child, """"Do you know the way to the park?""""",Indirect to Direct Speech
+121,She told her friend that she was leaving for Mumbai the next day.,"She said to her friend, """"I am leaving for Mumbai tomorrow.""""",Indirect to Direct Speech
+122,He said that he couldn't attend the party.,"He said, """"I can't attend the party.""""",Indirect to Direct Speech
+123,She requested the guest to have a seat.,"She said to the guest, """"Please have a seat.""""",Indirect to Direct Speech
+124,He wondered when the results would be announced.,"He thought, """"When will the results be announced?""""",Indirect to Direct Speech
+125,She said that she worked in a bank,"She said, """"I work in a bank.""""",Indirect to Direct Speech
+126,He asked her if she liked classical music,"He asked her, """"Do you like classical music?""""",Indirect to Direct Speech
+127,The guide told the tourists that it was a very old monument.,"The guide said to the tourists, """"This is a very old monument.""""",Indirect to Direct Speech
+128,She said that her brother was a doctor.,"She said, """"My brother is a doctor.""""",Indirect to Direct Speech
+129,He told the driver to stop the car.,"He said to the driver, """"Stop the car.""""",Indirect to Direct Speech
+130,She said that she had been waiting for a long time.,"She said, """"I have been waiting for a long time.""""",Indirect to Direct Speech
+131,He asked me what my name was.,"He asked me, """"What is your name?""""",Indirect to Direct Speech
+132,She told him she would never forget his kindness.,"She said to him, """"I will never forget your kindness.""""",Indirect to Direct Speech
+133,He is a talented musician.,He is not a talented musician.,Positive to Negative
+134,The package has arrived this morning.,The package has not arrived this morning.,Positive to Negative
+135,They will attend the meeting tomorrow.,They will not attend the meeting tomorrow.,Positive to Negative
+136,She understands the complexity of the situation.,She does not understand the complexity of the situation.,Positive to Negative
+137,We found the keys under the sofa.,We did not find the keys under the sofa.,Positive to Negative
+138,The sun rises in the east.,The sun does not rise in the west,Positive to Negative
+139,He has completed all his assignments.,He has not completed all his assignments.,Positive to Negative
+140,I am going to the market.,I am not going to the market.,Positive to Negative
+141,This is the correct answer.,This is not the correct answer,Positive to Negative
+142,She was happy with the results,She was not happy with the results,Positive to Negative
+143,The store is open on Sundays,The store is not open on Sundays.,Positive to Negative
+144,You should worry about the future.,You should not worry about the future.,Positive to Negative
+145,He can speak three languages fluently.,He cannot speak three languages fluently.,Positive to Negative
+146,The information is available to the public,The information is not available to the public,Positive to Negative
+147,She always arrives on time.,She never arrives on time.,Positive to Negative
+148,They were aware of the risks involved.,They were not aware of the risks involved.,Positive to Negative
+149,It is raining outside,It is not raining outside.,Positive to Negative
+150,We have enough food for everyone.,We do not have enough food for everyone.,Positive to Negative
+151,The plan seems feasible.,The plan does not seem feasible.,Positive to Negative
+152,He is a member of the club.,He is not a member of the club.,Positive to Negative
+153,This machine works properly,This machine does not work properly,Positive to Negative
+154,She likes to travel,She does not like to travel.,Positive to Negative
+155,I agree with your opinion.,I do not agree with your opinion.,Positive to Negative
+156,They have a big house in the city.,They do not have a big house in the city,Positive to Negative
+157,The company made a profit last year.,The company did not make a profit last year,Positive to Negative
+158,The evidence is conclusive.,The evidence is not conclusive.,Positive to Negative
+159,She remembers my name.,She does not remember my name,Positive to Negative
+160,This chemical is harmful to the environment,This chemical is not harmful to the environment.,Positive to Negative
+161,He believes in ghosts.,He does not believe in ghosts,Positive to Negative
+162,We must leave now.,We must not leave now,Positive to Negative
+163,The dog is barking loudly.,The dog is not barking loudly.,Positive to Negative
+164,It is possible to finish the work today.,It is not possible to finish the work today.,Positive to Negative
+165,He felt tired after the long journey.,He did not feel tired after the long journey.,Positive to Negative
+166,I do not understand the question.,I understand the question.,Negative to Positive
+167,She has never visited Paris.,She has visited Paris.,Negative to Positive
+168,He cannot lift that heavy box.,He can lift that heavy box,Negative to Positive
+169,They will not be joining us for dinner,They will be joining us for dinner,Negative to Positive
+170,The project was not successful.,The project was successful,Negative to Positive
+171,There is no milk in the fridge.,There is milk in the fridge.,Negative to Positive
+172,She didn't like the movie at all.,She liked the movie.,Negative to Positive
+173,The students were not paying attention.,The students were paying attention,Negative to Positive
+174,I have no idea what you are talking about.,I have an idea what you are talking about.,Negative to Positive
+175,He isn't the right person for the job,He is the right person for the job.,Negative to Positive
+176,We could not find the solution.,We could find the solution.,Negative to Positive
+177,This isn't a good time to talk.,This is a good time to talk.,Negative to Positive
+178,She has no interest in sports.,She has an interest in sports,Negative to Positive
+179,The library is not open today.,The library is open today,Negative to Positive
+180,You should not eat junk food.,You should eat junk food.,Negative to Positive
+181,They don't have any children.,They have children,Negative to Positive
+182,The train hasn't arrived yet.,The train has arrived.,Negative to Positive
+183,He never admits his mistakes,He always admits his mistakes,Negative to Positive
+184,This strategy is not effective.,This strategy is effective.,Negative to Positive
+185,I am not tired.,I am tired.,Negative to Positive
+186,The defendant was not guilty,The defendant was guilty.,Negative to Positive
+187,There was no one in the room.,There was someone in the room.,Negative to Positive
+188,He did not recognize me.,He recognized me.,Negative to Positive
+189,She won't be able to come.,She will be able to come,Negative to Positive
+190,This information is not reliable,This information is reliable,Negative to Positive
+191,He is not a citizen of this country.,He is a citizen of this country.,Negative to Positive
+192,We have never been to an opera.,We have been to an opera.,Negative to Positive
+193,The car does not need a repair.,The car needs a repair.,Negative to Positive
+194,She is not my sister.,She is my sister.,Negative to Positive
+195,There is nothing to worry about.,There is something to worry about.,Negative to Positive
+196,He was not present at the meeting.,He was present at the meeting.,Negative to Positive
+197,They are not ready for the exam.,They are ready for the exam.,Negative to Positive
+198,I cannot swim.,I can swim,Negative to Positive
+199,The weather is not pleasant today.,The weather is pleasant today.,Negative to Positive
+200,She does not have a driver's license,She has a driver's license,Negative to Positive
