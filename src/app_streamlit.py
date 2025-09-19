@@ -45,11 +45,14 @@ st.markdown(
 
 st.markdown("<div class='title'>✨ Sentence Transformation Detector AI</div>", unsafe_allow_html=True)
 
-# ✅ Cached model loading (from local or Hugging Face)
+# ✅ Get Hugging Face token from Streamlit secrets
+hf_token = st.secrets.get("HF_TOKEN", None)
+
+# ✅ Cached model loading (supports private Hugging Face repo)
 @st.cache_resource
 def load():
     try:
-        return load_model()
+        return load_model(hf_token=hf_token)
     except Exception as e:
         st.error("❌ Failed to load model. Check logs.")
         print(traceback.format_exc())
