@@ -1,4 +1,4 @@
-[📑 Sentence Transformation Classification
+📑 Sentence Transformation Classification
 
 🔹 Problem Statement
 The task is to build a AI ML model that can
@@ -82,4 +82,5 @@ Explain predictions with SHAP
 
 Run with:
 
-streamlit run src/app_streamlit.py]()
+
+streamlit run src/app_streamlit.py
